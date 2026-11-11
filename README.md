@@ -4,3 +4,6 @@ This repository contains a parry based combat system, mostly inspired by Sekiro:
 The player can attack, heavy attack, block, and dodge, and the enemy can do all the same except for dodging. The structure of the combat is similar to Sekiro in that any blocked or parried attacks will raise a posture bar, and when the posture bar is broken, the character is left stunned and defenceless.
 
 The entire system was built using UE5's Gameplay Ability System, with logic gating primarily being built through gameplay tags.
+
+
+https://github.com/user-attachments/assets/85df303f-0fa0-4974-a012-40bff96b6559
